@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title:"Home"}
   - {file: "README.md", title:"About"}
   - {file: "latest.md", title:"Blogs"}
+  - {file: "../articles/article.md", title:"Articles"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rajaraman.work@gmail.com"}
