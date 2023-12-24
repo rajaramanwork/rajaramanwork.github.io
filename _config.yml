@@ -34,3 +34,4 @@ theme: jekyll-theme-architect
 
 plugins:
  - jekyll-feed
+ - jekyll-include-cache
