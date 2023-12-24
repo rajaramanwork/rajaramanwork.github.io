@@ -30,7 +30,7 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-architect
 
 plugins:
  - jekyll-feed
