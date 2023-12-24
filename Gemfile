@@ -7,3 +7,5 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+gem "jekyll-include-cache"
+gem "github-pages", group: :jekyll_plugins
